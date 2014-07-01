@@ -16,7 +16,10 @@ TYPO3:
       # connection in this global Settings.yaml file. Rather specify them in the
       # settings of the respective context (Production / Development ...).
       backendOptions:
-        host: '127.0.0.1'    # adjust to your database host
+        host: 'mysqlsdb.co8hm2var4k9.eu-west-1.rds.amazonaws.com'    # adjust to your database host
+        dbname: 'depmgbzcc8f'       # adjust to your database name
+        user: 'depmgbzcc8f'             # adjust to your database user
+        password: 'NsiEJjYCL01g'         # adjust to your database password
 
   # You might need to uncomment the following lines and specify
   # the location of the PHP binary manually.
