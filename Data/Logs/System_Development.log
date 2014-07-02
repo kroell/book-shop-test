@@ -5091,3 +5091,8 @@
 14-07-02 11:54:51 6431       DEBUG     Flow                 Found 1 classes whose reflection data was not cached previously.
 14-07-02 11:54:52 1935       DEBUG     Flow                 Router route(): A cached Route with the cache identifier "b5ea811778e7215271bc509d2e73a14c" matched the path "soerenkroell.bookshop/Meincontroller/".
 14-07-02 11:54:52 1935       DEBUG     Flow                 No CSRF required, safe request
+14-07-02 20:50:23 2020       INFO      Flow                 File Monitor "Flow_ClassFiles" detected 1 changed files and 0 changed directories.
+14-07-02 20:50:23 2020       DEBUG     Flow                 Router route(): A cached Route with the cache identifier "2c4fc44a60b35b322a01b8a51e5f04ad" matched the path "".
+14-07-02 20:50:23 2020       DEBUG     Flow                 No CSRF required, safe request
+14-07-02 20:50:24 2020       DEBUG     Flow                 Router route(): A cached Route with the cache identifier "6b3209935f68b1e0c1b554dc6f503e16" matched the path "flow/welcome".
+14-07-02 20:50:24 2020       DEBUG     Flow                 No CSRF required, safe request
