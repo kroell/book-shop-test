@@ -1,0 +1,13 @@
+{
+    "name": "test/test2",
+    "type": "typo3-flow-package",
+    "description": "Add description here",
+    "require": {
+        "typo3/flow": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Test\\Test2": "Classes"
+        }
+    }
+}

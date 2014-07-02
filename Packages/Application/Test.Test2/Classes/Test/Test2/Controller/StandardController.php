@@ -1,8 +1,8 @@
 <?php
-namespace Soerenkroell\Bookshop\Controller;
+namespace Test\Test2\Controller;
 
 /*                                                                        *
- * This script belongs to the TYPO3 Flow package "Soerenkroell.Bookshop". *
+ * This script belongs to the TYPO3 Flow package "Test.Test2".            *
  *                                                                        *
  *                                                                        */
 
@@ -18,6 +18,5 @@ class StandardController extends \TYPO3\Flow\Mvc\Controller\ActionController {
 			'bar', 'baz'
 		));
 	}
-
 
 }

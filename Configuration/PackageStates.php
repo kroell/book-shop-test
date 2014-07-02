@@ -180,6 +180,14 @@ return array (
       'manifestPath' => '',
       'composerName' => 'soerenkroell/bookshop',
     ),
+    'Test.Test2' => 
+    array (
+      'state' => 'active',
+      'packagePath' => 'Application/Test.Test2/',
+      'classesPath' => 'Classes/',
+      'manifestPath' => '',
+      'composerName' => 'test/test2',
+    ),
   ),
   'version' => 4,
 );

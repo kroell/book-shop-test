@@ -390,5 +390,8 @@ return array (
   'TYPO3_Kickstart_ViewHelpers_Inflect_HumanizeCamelCaseViewHelper' => true,
   'TYPO3_Kickstart_ViewHelpers_Inflect_PluralizeViewHelper' => true,
   'TYPO3_Welcome_Controller_StandardController' => true,
+  'Soerenkroell_Bookshop_Controller_MeincontrollerController' => true,
   'Soerenkroell_Bookshop_Controller_StandardController' => true,
+  'Soerenkroell_Bookshop_Domain_Model_Book' => true,
+  'Test_Test2_Controller_StandardController' => true,
 );
